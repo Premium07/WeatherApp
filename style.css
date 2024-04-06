@@ -144,12 +144,5 @@ button:hover {
     width: 100%;
   }
 
-  #main {
-    height: 100vh;
-    width: 100vw;
-    background-color: #9b9b9b;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
+ 
 }
